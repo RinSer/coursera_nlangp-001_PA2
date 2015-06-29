@@ -1,0 +1,7 @@
+NP John 0.16 
+NP Mary 0.24 
+NP _RARE_ 0.4 
+IN with 1.0 
+Vt saw 1.0 
+IN John 0 
+VP _RARE_ 0 

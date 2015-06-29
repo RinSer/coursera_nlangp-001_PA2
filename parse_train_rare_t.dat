@@ -1,0 +1,5 @@
+["S", ["PP", ["ADP", "In"], ["NP", ["DET", "the"], ["NP", ["ADJ", "_RARE_"], ["NOUN", "_RARE_"]]]], ["S", ["NP", ["ADJ", "British"], ["NOUN", "_RARE_"]], ["S", ["VP", ["VERB", "were"], ["VP", ["VERB", "used"], ["S+VP", ["PRT", "to"], ["VP", ["VERB", "_RARE_"], ["WHNP", ["DET", "which"], ["NOUN", "_RARE_"]]]]]], [".", "?"]]]]
+["SBARQ", ["WHNP", ["DET", "What"], ["NOUN", "state"]], ["SBARQ", ["SQ", ["VERB", "is"], ["NP", ["NP", ["DET", "the"], ["NP", ["ADJ", "_RARE_"], ["NOUN", "_RARE_"]]], ["PP", ["ADP", "of"], ["NP", ["DET", "the"], ["NP", ["ADJ", "_RARE_"], ["NP", ["NUM", "_RARE_"], ["NOUN", "_RARE_"]]]]]]], [".", "?"]]]
+["SBARQ", ["WHNP+PRON", "What"], ["SBARQ", ["SQ", ["VERB", "is"], ["NP", ["DET", "an"], ["NP", ["ADJ", "_RARE_"], ["NOUN", "_RARE_"]]]], [".", "?"]]]
+["SBARQ", ["WHNP+PRON", "What"], ["SBARQ", ["SQ", ["VERB", "are"], ["NP+NOUN", "dicks"]], [".", "?"]]]
+["SBARQ", ["WHADVP+ADV", "When"], ["SBARQ", ["SQ", ["VERB", "is"], ["NP", ["NP", ["NOUN", "_RARE_"], ["NOUN", "_RARE_"]], ["PP", ["ADP", "in"], ["NP", ["DET", "the"], ["NOUN", "_RARE_"]]]]], [".", "?"]]]

@@ -1,0 +1,5 @@
+S NP VP 1.0 
+VP Vt NP 0.2 
+VP VP PP 0.8 
+NP NP PP 0.2 
+PP IN NP 1.0 

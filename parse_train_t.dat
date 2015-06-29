@@ -1,0 +1,5 @@
+["S", ["PP", ["ADP", "In"], ["NP", ["DET", "the"], ["NP", ["ADJ", "late"], ["NOUN", "1700<s"]]]], ["S", ["NP", ["ADJ", "British"], ["NOUN", "convicts"]], ["S", ["VP", ["VERB", "were"], ["VP", ["VERB", "used"], ["S+VP", ["PRT", "to"], ["VP", ["VERB", "populate"], ["WHNP", ["DET", "which"], ["NOUN", "colony"]]]]]], [".", "?"]]]]
+["SBARQ", ["WHNP", ["DET", "What"], ["NOUN", "state"]], ["SBARQ", ["SQ", ["VERB", "is"], ["NP", ["NP", ["DET", "the"], ["NP", ["ADJ", "geographic"], ["NOUN", "center"]]], ["PP", ["ADP", "of"], ["NP", ["DET", "the"], ["NP", ["ADJ", "lower"], ["NP", ["NUM", "48"], ["NOUN", "states"]]]]]]], [".", "?"]]]
+["SBARQ", ["WHNP+PRON", "What"], ["SBARQ", ["SQ", ["VERB", "is"], ["NP", ["DET", "an"], ["NP", ["ADJ", "obtuse"], ["NOUN", "angle"]]]], [".", "?"]]]
+["SBARQ", ["WHNP+PRON", "What"], ["SBARQ", ["SQ", ["VERB", "are"], ["NP+NOUN", "dicks"]], [".", "?"]]]
+["SBARQ", ["WHADVP+ADV", "When"], ["SBARQ", ["SQ", ["VERB", "is"], ["NP", ["NP", ["NOUN", "hurricane"], ["NOUN", "season"]], ["PP", ["ADP", "in"], ["NP", ["DET", "the"], ["NOUN", "Caribbean"]]]]], [".", "?"]]]
